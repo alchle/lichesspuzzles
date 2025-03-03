@@ -17,4 +17,4 @@ lichess format:
 My new format (Added the last two fields: NewFEN and New Moves
 000Zo	4r3/1k6/pp3r2/1b2P2p/3R1p2/P1R2P2/1P4PP/6K1 w - - 0 35	e5f6 e8e1 g1f2 e1f1	1353	75	86	627	endgame mate mateIn2 short	https://lichess.org/n8Ff742v#69		4r3/1k6/pp3P2/1b5p/3R1p2/P1R2P2/1P4PP/6K1 b - - 0 35	e8e1 g1f2 e1f1
 
-
+The script will also generate PGN if so desired into another column. It's not the full game of course, but I used it here: https://pgn2pdf.com/  to genereate pdf files of the puzzles. That is a neat website.
