@@ -9,7 +9,7 @@ I was looking at printing some puzzles from https://database.lichess.org/#puzzle
 The position to present to the player is after applying the first move to that FEN.
 The second move is the beginning of the solution. "
 
-But this bugged me, so I wrote a python script (version 3.12) that applies the next move, recreates the FEN to reflect it.  Thus, when it says it is white's mate in 1, it indeed shows the board with white's move and check mate in 1.
+But this bugged me, so I wrote a python script (version 3.12) that applies the next move, recreates the FEN to reflect it.  Thus, when it says it is white's mate in 1, it indeed shows the board with white's move and check mate in 1. [probably not the most eligant code writing, but it works.  I haven't done much python]
 
 lichess format:
 000Zo	4r3/1k6/pp3r2/1b2P2p/3R1p2/P1R2P2/1P4PP/6K1 w - - 0 35	e5f6 e8e1 g1f2 e1f1	1353	75	86	627	endgame mate mateIn2 short	https://lichess.org/n8Ff742v#69
